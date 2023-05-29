@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+head{
+    <title>LES 12 - HWO Valérie Thiébaut</title>
+    }
+header{
+    background-color:#89c4e1;
+    width: 100%;
+    height: 200px;
+}
+footer{
+    background-color:rgb(66, 72, 75);
+    width: 100%;
+    height: 200px;
+}
+table{
+    border: none;
+}
+#a{
+    background-color:rgb(255, 119, 8);
+    color: rgb(13, 0, 252);
+}
+#b{
+    background-color:darkslateblue;
+    color: rgb(255, 161, 10);
+}
+#c{
+    background-color: rgb(112, 89, 111);
+    color: rgb(7, 240, 229);
+}
+#d{
+    background-color:rgb(103, 103, 127);
+    color: rgb(255, 203, 92);
+}
+#e{
+    background-color: rgb(88, 194, 17);
+}
+#f{
+    background-color: rgb(118, 72, 161);
+}
+#g{
+    background-color: rgb(28, 4, 50);
+}
+#h{
+    background-color: rgb(1, 19, 120);
+}
+#i{
+    background-color: #8f603f;
+    color: rgb(16, 245, 39);
+}
+#j{
+    background-color: #284242;
+    color: rgb(236, 12, 187);
+}
+#k{
+    background-color: #996689;
+    color: rgb(225, 232, 12);
+}
+#l{
+    background-color:  #415e48;
+    color: rgb(11, 248, 244);
+}
+#m{
+    background-color:#cc9850cc;
+}
+#n{
+    background-color:#86cc6599;
+}
+#o{
+    background-color:#cc868066;
+}
+#p{
+    background-color:#95CC9933;
+}
+.picture{        
+    height: 200px;
+}
+.picture2{
+    text-align: center;
+    height: 300px;
+    width: 720px;
+}
+.beroep{
+    text-align: center;
+    width: 130px;
+    height: 25px;
+}
